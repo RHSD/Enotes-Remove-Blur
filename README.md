@@ -1,4 +1,4 @@
-# Enotes Blur Remover
+# eNotes Blur Remover
 This tampermonkey script will remove blur on paywalled content on Enotes
 
 ## Usage  
